@@ -7,8 +7,6 @@ Convert numbers to string.
 
 
 ### Usage
-
-#### `convert(number)`
 Convert number to string
 ```js
 var convertNumbers = require('convert_numbers');
