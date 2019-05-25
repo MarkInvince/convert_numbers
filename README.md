@@ -11,6 +11,6 @@ Convert numbers to string.
 #### `convert(number)`
 Convert number to string
 ```js
-var package = require('convert_numbers');
-package.convert(1); // => “one”
+var convertNumbers = require('convert_numbers');
+convertNumbers.convert(1); // => “one”
 ```
