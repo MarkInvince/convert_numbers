@@ -1,0 +1,23 @@
+{
+  "name": "convert_numbers",
+  "version": "1.0.0",
+  "description": "Convert numbers to string",
+  "main": "./src",
+  "scripts": {
+    "test": "test [-- <args>]"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkInvince/convert_numbers.git"
+  },
+  "keywords": [
+    "number",
+    "string"
+  ],
+  "author": "MarkInvince",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarkInvince/convert_numbers/issues"
+  },
+  "homepage": "https://github.com/MarkInvince/convert_numbers#readme"
+}
